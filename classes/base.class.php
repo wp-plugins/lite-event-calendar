@@ -509,8 +509,6 @@ class DpProEventCalendar {
 								'.$all_working_days.' '.((($this->calendar_obj->show_time && !$event_data->hide_time) || $event_data->all_day) ? $time.$end_time : '').'</p>'.
 						   '</div>';
 				
-				$return .= $this->getBookingButton($post_id);
-				
 				$return .= '
 						   <div class="dp_pec_clear"></div>';
 

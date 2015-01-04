@@ -2,7 +2,7 @@
 /*
 Plugin Name: DP Lite Event Calendar
 Description: The Lite Event Calendar plugin adds a professional and sleek calendar to your posts or pages. 100% Responsive, also you can use it inside a widget.
-Version: 1.0
+Version: 1.0.1
 Author: Diego Pereyra
 Author URI: http://www.wpsleek.com/
 Wordpress version supported: 3.0 and above
@@ -21,7 +21,7 @@ define('DP_LITE_EVENT_CALENDAR_TABLE_SPECIAL_DATES','dpProEventCalendar_special_
 define('DP_LITE_EVENT_CALENDAR_TABLE_SPECIAL_DATES_CALENDAR','dpProEventCalendar_special_dates_calendar'); //special dates TABLE NAME
 define('DP_LITE_EVENT_CALENDAR_TABLE_SUBSCRIBERS_CALENDAR','dpProEventCalendar_subscribers_calendar'); //special dates TABLE NAME
 
-define("DP_LITE_EVENT_CALENDAR_VER","1.0",false);//Current Version of this plugin
+define("DP_LITE_EVENT_CALENDAR_VER","1.0.1",false);//Current Version of this plugin
 if ( ! defined( 'DP_LITE_EVENT_CALENDAR_PLUGIN_BASENAME' ) )
 	define( 'DP_LITE_EVENT_CALENDAR_PLUGIN_BASENAME', plugin_basename( __FILE__ ) );
 if ( ! defined( 'DP_LITE_EVENT_CALENDAR_CSS_DIR' ) ){
