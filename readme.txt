@@ -4,7 +4,7 @@ Donate link: http://wpsleek.com/
 Tags: calendar, events, recurring events, ical, modern, elegant, professional, unique, clean, wordpress, responsive, dates
 Requires at least: 3.8
 Tested up to: 4.0.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -47,6 +47,9 @@ Once the plugin has been activated you will notice a new button in the sidebar m
 If you want to upgrade to the PRO version, you will need to first deactivate this plugin and then activate the PRO Event Calendar.
 
 == Changelog ==
+
+= 1.0.2 = 
+* Added Po language files
 
 = 1.0.1 = 
 * Fixed issue when seeing event
